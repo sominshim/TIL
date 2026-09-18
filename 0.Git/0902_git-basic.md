@@ -28,7 +28,7 @@
 - `git switch -c`: 브랜치를 만들면서 checkout할 때 사용
 
 ### Git 작업 흐름
-![git 작업 흐름](../img/git-process.png)
+![git 작업 흐름](../99.img/git-process.png)
 
 ---
 
